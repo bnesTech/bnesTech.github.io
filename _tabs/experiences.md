@@ -24,8 +24,11 @@ pin: true
 
 ### Some featured projects selected from what bnesTech members have conducted are:
 
-- Korea, MunKyeong Footbridge: 2024
+- Korea, MunKyeong Footbridge: 2024-present
     - Flutter stability analysis
+
+- Chile, Chacao Bridge: 2024-present
+    - Buffeting analysis of catwalk system
 
 - Korea, Sound-proof Tunnel: 2024
     - CFD analysis
