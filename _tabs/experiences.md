@@ -39,7 +39,7 @@ pin: true
 -  Türkiye, 1915 Çanakkale Bridge: 2016-2022
     - Vibration control of hanger cables and hand ropes
     - Wind response analysis of catwalk system
-    - Design and analysis of Kalman-filters for vibration control of pylons
+    - Design and analysis of Kalman-filters for active vibration control of pylons
     - CFD analysis of deck and pylon
 
 - Korea, Siru-island Footbridge: 2022
