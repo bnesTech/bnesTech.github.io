@@ -30,7 +30,7 @@ pin: true
 - Chile, Chacao Bridge: 2024-present
     - Buffeting analysis of catwalk system
 
-- Korea, Sound-proof Tunnel: 2024
+- Korea, Donggwangju-gwangsan Sound-proof Tunnel: 2024
     - CFD analysis
 
 -  Korea, Gangnam station and Sinnonhyeon station: 2023
