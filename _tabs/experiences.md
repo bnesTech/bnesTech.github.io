@@ -24,6 +24,19 @@ pin: true
 
 ### Some featured projects selected from what bnesTech members have conducted are:
 
+- Korea, Air-Supported Tennis Domes: 2025
+    - CFD Analysis
+
+- Cambodia, Cambodia-Korea Friendship Bridge: 2025
+    - Flutter stability analysis
+    - Wind climate analysis using Monte Carlo simulation and statistical extreme value analysis
+
+- Korea, Gyeyang–Ganghwa Bridge: 2025
+    - CFD Analysis
+
+- Korea, Saemangeum Bridge: 2025
+    - CFD Analysis
+
 - Korea, MunKyeong Footbridge: 2024-present
     - Flutter stability analysis
 
