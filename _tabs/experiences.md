@@ -37,10 +37,10 @@ pin: true
 - Korea, Saemangeum Bridge: 2025
     - CFD Analysis
 
-- Korea, MunKyeong Footbridge: 2024-present
+- Korea, MunKyeong Footbridge: 2024
     - Flutter stability analysis
 
-- Chile, Chacao Bridge: 2024-present
+- Chile, Chacao Bridge: 2024
     - Buffeting analysis of catwalk system
 
 - Korea, Donggwangju-gwangsan Sound-proof Tunnel: 2024
