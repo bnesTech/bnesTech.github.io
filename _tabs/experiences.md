@@ -24,7 +24,10 @@ pin: true
 
 ### Some featured projects selected from what bnesTech members have conducted are:
 
-- Korea, Air-Supported Tennis Dome: 2025
+- Korea, Boryeong Sports Park Air Dome: 2025
+    - CFD Analysis
+
+- Korea, Gwangju Air-Supported Tennis Dome: 2025
     - CFD Analysis
 
 - Cambodia, Cambodia-Korea Friendship Bridge: 2025
